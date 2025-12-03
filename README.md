@@ -1,4 +1,4 @@
-# Hi, I'm Gustio Nusamba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Gustio Nusamba - Full Stack Developer
 Welcome to my Github! I am a full stack developer who is passionate about creating solutions and exploring new things.
 ## Technologies & Tools
 - **Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Java, Javascript, Typescript, PHP
@@ -9,7 +9,9 @@ Welcome to my Github! I am a full stack developer who is passionate about creati
 - **Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** gustio2480@gmail.com
 - **Linkedin&nbsp;&nbsp;:** [Gustio Nusamba](https://www.linkedin.com/in/gustio-nusamba/)
 
-
+<!--
+# Hi, I'm Gustio Nusamba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+-->
 
 <!-- <a href="https://www.linkedin.com/in/gustio-nusamba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto: gusti2480@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
