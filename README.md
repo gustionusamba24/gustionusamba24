@@ -2,7 +2,7 @@
 Welcome to my Github! I am a full stack developer who is passionate about creating solutions and exploring new things.
 ## Technologies & Tools
 - **Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Java, Javascript, Typescript, PHP
-- **Frameworks&ensp;&nbsp;:** Spring Boot, Laravel, React, Vue
+- **Frameworks&ensp;&nbsp;:** Spring Boot, Laravel, React
 - **Databases&emsp;&nbsp;&nbsp;:** SQL Server, PostgreSQL, MySQL, MongoDB
 - **Others&emsp;&emsp;&emsp;:** Docker
 ## Reach me out
