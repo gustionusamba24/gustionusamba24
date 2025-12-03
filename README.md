@@ -1,4 +1,4 @@
-# Gustio Nusamba - Full Stack Developer
+# Hi, I'm Gustio Nusamba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Welcome to my Github! I am a full stack developer who is passionate about creating solutions and exploring new things.
 ## Technologies & Tools
 - **Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Java, Javascript, Typescript, PHP
